@@ -66,11 +66,11 @@ int main()
 			L1.display();
 			cout<<"\n\n---------------------"<<endl;			
 			break;
-			case 5:
+		case 5:
 			cout << "you are existing the program" << endl; 
 			        exit(0);
 			break;
-			case 6:
+		case 6:
 			cout << "This how the program works\n" << endl;
 
 			cout << "-----------insertion[1]------------\n" <<endl;
